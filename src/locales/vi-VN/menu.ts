@@ -6,6 +6,8 @@ export default {
 	'menu.About': `Giới thiệu ${APP_CONFIG_TIEN_TO_TRUONG.toLowerCase()}`,
 	'menu.News': 'Tin tức',
 	'menu.QuanLySanPham': 'Quản lý Sản phẩm',
+	'menu.TroChoiDoanSo': 'Bài 1: Trò Chơi Đoán Số',
+	'menu.QuanLyHocTap': 'Bài 2: Quản Lý Học Tập',
 
 	'menu.DanhMuc': 'Danh mục',
 	'menu.DanhMuc.ChucVu': 'Chức vụ',

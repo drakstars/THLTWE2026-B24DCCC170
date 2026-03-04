@@ -48,6 +48,18 @@
 		icon: 'ShoppingOutlined',
 		component: './QuanLySanPham',
 	},
+	{
+		path: '/tro-choi-doan-so',
+		name: 'TroChoiDoanSo',
+		icon: 'SmileOutlined',
+		component: './TroChoiDoanSo',
+	},
+	{
+		path: '/quan-ly-hoc-tap',
+		name: 'QuanLyHocTap',
+		icon: 'BookOutlined',
+		component: './QuanLyHocTap',
+	},
 
 	// DANH MUC HE THONG
 	// {
