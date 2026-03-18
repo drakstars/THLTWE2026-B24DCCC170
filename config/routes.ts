@@ -67,6 +67,12 @@
 		component: './QuanLyHocTap',
 	},
 	{
+		path: '/quan-ly-lich-hen',
+		name: 'QuanLyLichHen',
+		icon: 'CalendarOutlined',
+		component: './QuanLyLichHen',
+	},
+	{
 		name: 'NganHangCauHoi',
 		path: '/ngan-hang-cau-hoi',
 		icon: 'DatabaseOutlined',

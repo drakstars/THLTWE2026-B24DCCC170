@@ -7,6 +7,7 @@ export default {
 	'menu.News': 'Tin tức',
 	'menu.QuanLySanPham': 'Quản lý Sản phẩm',
 	'menu.QuanLyHocTap': 'Quản Lý Học Tập',
+	'menu.QuanLyLichHen': 'Quản Lý Lịch Hẹn',
 	
 	// Trò chơi
 	'menu.TroChoiDoanSo': 'Trò chơi đoán số',

@@ -6,6 +6,7 @@ export default {
   'menu.News': 'Tin tức',
   'menu.QuanLySanPham': 'Product Management',
   'menu.QuanLyHocTap': 'Study Management',
+  'menu.QuanLyLichHen': 'Appointment Management',
 
   // Games
   'menu.TroChoiDoanSo': 'Guessing Game',
