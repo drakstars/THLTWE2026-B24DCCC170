@@ -8,6 +8,7 @@ export default {
 	'menu.QuanLySanPham': 'Quản lý Sản phẩm',
 	'menu.QuanLyHocTap': 'Quản Lý Học Tập',
 	'menu.QuanLyLichHen': 'Quản Lý Lịch Hẹn',
+	'menu.QuanLyVanBang': 'Quản Lý Văn Bằng',
 	
 	// Trò chơi
 	'menu.TroChoiDoanSo': 'Trò chơi đoán số',

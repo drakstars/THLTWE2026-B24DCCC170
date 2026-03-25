@@ -73,6 +73,12 @@
 		component: './QuanLyLichHen',
 	},
 	{
+		path: '/quan-ly-van-bang',
+		name: 'QuanLyVanBang',
+		icon: 'BookOutlined',
+		component: './QuanLyVanBang',
+	},
+	{
 		name: 'NganHangCauHoi',
 		path: '/ngan-hang-cau-hoi',
 		icon: 'DatabaseOutlined',

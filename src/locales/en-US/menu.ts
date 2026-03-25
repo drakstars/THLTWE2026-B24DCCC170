@@ -7,6 +7,7 @@ export default {
   'menu.QuanLySanPham': 'Product Management',
   'menu.QuanLyHocTap': 'Study Management',
   'menu.QuanLyLichHen': 'Appointment Management',
+  'menu.QuanLyVanBang': 'Diploma Management',
 
   // Games
   'menu.TroChoiDoanSo': 'Guessing Game',
