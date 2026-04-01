@@ -73,6 +73,12 @@
 		component: './QuanLyLichHen',
 	},
 	{
+		path: '/he-thong-quan-ly-cau-lac-bo',
+		name: 'HeThongQuanLyCauLacBo',
+		icon: 'TeamOutlined',
+		component: './HeThongQuanLyCauLacBo',
+	},
+	{
 		path: '/quan-ly-van-bang',
 		name: 'QuanLyVanBang',
 		icon: 'BookOutlined',
