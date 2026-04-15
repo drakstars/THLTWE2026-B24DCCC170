@@ -49,6 +49,12 @@
 		component: './QuanLySanPham',
 	},
 	{
+		path: '/quan-ly-don-hang',
+		name: 'QuanLyDonHang',
+		icon: 'ShoppingCartOutlined',
+		component: './QuanLyDonHang',
+	},
+	{
 		path: '/tro-choi/doan-so',
 		name: 'TroChoiDoanSo',
 		icon: 'SmileOutlined',
@@ -77,6 +83,12 @@
 		name: 'HeThongQuanLyCauLacBo',
 		icon: 'TeamOutlined',
 		component: './HeThongQuanLyCauLacBo',
+	},
+	{
+		path: '/lap-ke-hoach-du-lich',
+		name: 'LapKeHoachDuLich',
+		icon: 'CompassOutlined',
+		component: './LapKeHoachDuLich',
 	},
 	{
 		path: '/quan-ly-van-bang',

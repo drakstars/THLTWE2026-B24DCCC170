@@ -6,9 +6,11 @@ export default {
 	'menu.About': `Giới thiệu ${APP_CONFIG_TIEN_TO_TRUONG.toLowerCase()}`,
 	'menu.News': 'Tin tức',
 	'menu.QuanLySanPham': 'Quản lý Sản phẩm',
+	'menu.QuanLyDonHang': 'Quản Lý Đơn Hàng',
 	'menu.QuanLyHocTap': 'Quản Lý Học Tập',
 	'menu.QuanLyLichHen': 'Quản Lý Lịch Hẹn',
 	'menu.HeThongQuanLyCauLacBo': 'Hệ Thống Quản Lý Câu Lạc Bộ',
+	'menu.LapKeHoachDuLich': 'Lập Kế Hoạch Du Lịch',
 	'menu.QuanLyVanBang': 'Quản Lý Văn Bằng',
 	
 	// Trò chơi

@@ -5,9 +5,11 @@ export default {
   'menu.Dashboard': 'Trang chủ',
   'menu.News': 'Tin tức',
   'menu.QuanLySanPham': 'Product Management',
+  'menu.QuanLyDonHang': 'Order Management',
   'menu.QuanLyHocTap': 'Study Management',
   'menu.QuanLyLichHen': 'Appointment Management',
   'menu.HeThongQuanLyCauLacBo': 'Club Management System',
+  'menu.LapKeHoachDuLich': 'Travel Planning',
   'menu.QuanLyVanBang': 'Diploma Management',
 
   // Games
