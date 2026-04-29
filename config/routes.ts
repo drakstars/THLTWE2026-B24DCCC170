@@ -55,6 +55,38 @@
 		component: './QuanLyDonHang',
 	},
 	{
+		path: '/blog-ca-nhan',
+		name: 'BlogCaNhan',
+		icon: 'ReadOutlined',
+		routes: [
+			{
+				path: '/blog-ca-nhan',
+				exact: true,
+				component: './BlogCaNhan',
+			},
+			{
+				path: '/blog-ca-nhan/bai-viet/:slug',
+				hideInMenu: true,
+				component: './BlogCaNhan/Detail',
+			},
+			{
+				path: '/blog-ca-nhan/gioi-thieu',
+				hideInMenu: true,
+				component: './BlogCaNhan/About',
+			},
+			{
+				path: '/blog-ca-nhan/quan-ly-bai-viet',
+				hideInMenu: true,
+				component: './BlogCaNhan/ManagePosts',
+			},
+			{
+				path: '/blog-ca-nhan/quan-ly-the',
+				hideInMenu: true,
+				component: './BlogCaNhan/ManageTags',
+			},
+		],
+	},
+	{
 		path: '/tro-choi/doan-so',
 		name: 'TroChoiDoanSo',
 		icon: 'SmileOutlined',
@@ -95,6 +127,12 @@
 		name: 'QuanLyVanBang',
 		icon: 'BookOutlined',
 		component: './QuanLyVanBang',
+	},
+	{
+		path: '/ung-dung-the-duc-tdsk',
+		name: 'UngDungTheDucTDSK',
+		icon: 'HeartOutlined',
+		component: './UngDungTheDuc,TDSK',
 	},
 	{
 		name: 'NganHangCauHoi',

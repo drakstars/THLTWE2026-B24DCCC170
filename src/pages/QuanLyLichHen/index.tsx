@@ -41,7 +41,7 @@ const QuanLyLichHen: React.FC = () => {
   const canCreateAppointment = data.staffs.length > 0 && data.services.length > 0;
 
   return (
-    <PageContainer title="Quản Lý Lịch Hẹn" subTitle="Đặt lịch, quản lý nhân viên, đánh giá và thống kê">
+    <PageContainer title={<span>"Quản Lý Lịch Hẹn"</span>}>
       <AsyncState loading={loading} error={error} onRetry={loadData}>
         {!canCreateAppointment ? (
           <Alert

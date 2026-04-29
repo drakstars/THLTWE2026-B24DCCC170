@@ -7,11 +7,13 @@ export default {
 	'menu.News': 'Tin tức',
 	'menu.QuanLySanPham': 'Quản lý Sản phẩm',
 	'menu.QuanLyDonHang': 'Quản Lý Đơn Hàng',
+	'menu.BlogCaNhan': 'Blog Cá Nhân',
 	'menu.QuanLyHocTap': 'Quản Lý Học Tập',
 	'menu.QuanLyLichHen': 'Quản Lý Lịch Hẹn',
 	'menu.HeThongQuanLyCauLacBo': 'Hệ Thống Quản Lý Câu Lạc Bộ',
 	'menu.LapKeHoachDuLich': 'Lập Kế Hoạch Du Lịch',
 	'menu.QuanLyVanBang': 'Quản Lý Văn Bằng',
+	'menu.UngDungTheDucTDSK': 'Ứng Dụng Thể Dục, TDSK',
 	
 	// Trò chơi
 	'menu.TroChoiDoanSo': 'Trò chơi đoán số',
