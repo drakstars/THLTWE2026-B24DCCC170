@@ -123,6 +123,12 @@
 		component: './LapKeHoachDuLich',
 	},
 	{
+		path: '/theo-doi-cong-viec-ca-nhan',
+		name: 'TheoDoiCongViecCaNhan',
+		icon: 'CheckSquareOutlined',
+		component: './TheoDoiCongViecCaNhan',
+	},
+	{
 		path: '/quan-ly-van-bang',
 		name: 'QuanLyVanBang',
 		icon: 'BookOutlined',
